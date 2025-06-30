@@ -1,6 +1,6 @@
 import os 
 import sys
-from pymongo
+import pymongo 
 import certifi
 from src.exception import MyException
 from src.logger import logging

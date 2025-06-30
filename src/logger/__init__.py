@@ -42,3 +42,5 @@ def configure_logger():
 
 # Configure the logger
 configure_logger()
+logging.info("This is an info log.")
+logging.debug("This is a debug log.")
