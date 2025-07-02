@@ -21,6 +21,7 @@
 #     raise MyException(e, sys) from e
 
 # --------------------------------------------------------------------------------
+# updating demo.py file to run the cicd 
 
 from src.pipline.training_pipeline import TrainPipeline
 
